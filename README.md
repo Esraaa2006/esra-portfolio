@@ -502,7 +502,7 @@
   <header>
     <div class="container">
       <nav>
-        <a href="#home" class="logo">ISRAA.</a>
+        <a href="#home" class="logo">ESRAA.</a>
 
         <ul class="nav-links">
           <li><a href="#home">الرئيسية</a></li>
@@ -525,7 +525,7 @@
 
           <h1>
             مرحباً، أنا<br>
-            <span>Israa Al-Hetari.</span>
+            <span>Esraa Al-Hetari.</span>
           </h1>
 
           <p>
