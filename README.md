@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="theme-color" content="#f6f4ec">
 <meta name="description" content="Israa Al-Hetari — Cybersecurity and Networks student, creative thinker and aspiring developer.">
-<title>Israa Al-Hetari — Personal Portfolio</title>
+<title>Esraa Al-Hetari — Personal Portfolio</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -1057,7 +1057,7 @@ body[dir="rtl"] .project-tag {
 
 <footer>
   <div class="container footer-inner">
-    <div class="footer-brand">ISRAA AL-HETARI.</div>
+    <div class="footer-brand">ESRAA AL-HETARI.</div>
     <div data-i18n="footerText">Designed with intention · © 2026</div>
   </div>
 </footer>
@@ -1065,7 +1065,7 @@ body[dir="rtl"] .project-tag {
 <script>
 const translations = {
   en: {
-    title: "Israa Al-Hetari — Personal Portfolio",
+    title: "Esraa Al-Hetari — Personal Portfolio",
     description: "Israa Al-Hetari — Cybersecurity and Networks student, creative thinker and aspiring developer.",
     navHome: "Home",
     navAbout: "About",
